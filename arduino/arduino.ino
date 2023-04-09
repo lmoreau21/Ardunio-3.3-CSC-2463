@@ -1,3 +1,5 @@
+//Video: https://youtu.be/T9BL1TjKQLQ
+
 // pins for the LEDs:
 const int redPin = 7;
 const int greenPin = 6;

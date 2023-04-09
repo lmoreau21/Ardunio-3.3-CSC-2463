@@ -1,3 +1,5 @@
+//Video: https://youtu.be/T9BL1TjKQLQ
+
 let port;
 let writer, reader;
 let sliderR,sliderG,sliderB; 
